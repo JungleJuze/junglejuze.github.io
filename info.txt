@@ -20,6 +20,7 @@ blog width is controlled by  page.html
 individual blog square sizing is foung in blog.html
 
 search bar: 3-modules/_search.scss
+	search results are also here
 
 
 brightness of hero image is found in 3-modules/_hero.scss  .hero__inner    background-color 
