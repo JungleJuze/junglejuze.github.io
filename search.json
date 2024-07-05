@@ -1,25 +1,25 @@
 [
   
     {
-      "title"    : "Art",
+      "title"    : "Poetry",
       "category" : "",
-      "tags"     : "Lifestyle, and Art",
-      "url"      : "/2024/07/04/art/",
-      "date"     : "Jul 4, 2024"
+      "tags"     : "Poetry",
+      "url"      : "/2024/07/05/poetry/",
+      "date"     : "Jul 5, 2024"
     } ,
   
     {
-      "title"    : "Poetry",
+      "title"    : "Art Gallery",
       "category" : "",
-      "tags"     : "Work, and Writing",
-      "url"      : "/2018/11/12/poetry/",
-      "date"     : "Nov 12, 2018"
+      "tags"     : "Art and Drawing",
+      "url"      : "/2024/07/04/art-gallery/",
+      "date"     : "Jul 4, 2024"
     } ,
   
     {
       "title"    : "Recipes",
       "category" : "",
-      "tags"     : "Travel",
+      "tags"     : "a",
       "url"      : "/2018/11/11/recipes/",
       "date"     : "Nov 11, 2018"
     } ,
