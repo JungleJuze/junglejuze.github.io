@@ -31,3 +31,8 @@ ex: <div class="article col col-6 col-d-6 col-t-12 push-6 grid__post animate">
 
 tags in post pages can be changed in: 4-layouts/_posts.scss
 	background-color: $brand-color (is original)
+
+fixed tag links a urls:
+	4-layouts/_tags-page.scss .archive-title {
+  text-transform: capitalize; /* Added so capitalize titles, because we need urls and tags to be lower case for the urls to work
+  since the url picks up the tags and uses the way they're spelled to create the urls*/

@@ -81,6 +81,9 @@
 <loc>http://localhost:4000/tag/drawing/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/poetry/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page/2/</loc>
 </url>
 </urlset>
