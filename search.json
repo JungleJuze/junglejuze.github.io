@@ -1,11 +1,35 @@
 [
   
     {
+      "title"    : "Recipes",
+      "category" : "",
+      "tags"     : "recipes and food",
+      "url"      : "/2024/07/06/recipes/",
+      "date"     : "Jul 6, 2024"
+    } ,
+  
+    {
       "title"    : "Poetry",
       "category" : "",
       "tags"     : "Poetry",
       "url"      : "/2024/07/05/poetry/",
       "date"     : "Jul 5, 2024"
+    } ,
+  
+    {
+      "title"    : "Memes",
+      "category" : "",
+      "tags"     : "memes and humor",
+      "url"      : "/2024/07/05/memes/",
+      "date"     : "Jul 5, 2024"
+    } ,
+  
+    {
+      "title"    : "Bio Hacking",
+      "category" : "",
+      "tags"     : "bio-hacking",
+      "url"      : "/2024/07/04/bio-hacking/",
+      "date"     : "Jul 4, 2024"
     } ,
   
     {
@@ -17,17 +41,9 @@
     } ,
   
     {
-      "title"    : "Recipes",
-      "category" : "",
-      "tags"     : "Work and Travel",
-      "url"      : "/2018/11/11/recipes/",
-      "date"     : "Nov 11, 2018"
-    } ,
-  
-    {
       "title"    : "Technology",
       "category" : "",
-      "tags"     : "Work and Travel",
+      "tags"     : "technology",
       "url"      : "/2018/11/10/technology/",
       "date"     : "Nov 10, 2018"
     } ,
@@ -38,54 +54,6 @@
       "tags"     : "Work and Travel",
       "url"      : "/2018/11/09/spirituality/",
       "date"     : "Nov 9, 2018"
-    } ,
-  
-    {
-      "title"    : "Escape is not his plan. I must face him, alone.",
-      "category" : "",
-      "tags"     : "Work and Travel",
-      "url"      : "/2018/11/08/escape-is-not-his-plan-i-must-face-him-alone/",
-      "date"     : "Nov 8, 2018"
-    } ,
-  
-    {
-      "title"    : "Now she is my only link to finding their secret base",
-      "category" : "",
-      "tags"     : "Lifestyle and Rest",
-      "url"      : "/2018/11/07/now-she-is-my-only-link-to-finding-their-secret-base/",
-      "date"     : "Nov 7, 2018"
-    } ,
-  
-    {
-      "title"    : "She must have hidden the plans in the escape pod",
-      "category" : "",
-      "tags"     : "Work and Travel",
-      "url"      : "/2018/11/06/she-must-have-hidden-the-plans-in-the-escape-pod/",
-      "date"     : "Nov 6, 2018"
-    } ,
-  
-    {
-      "title"    : "In my experience, there is no such thing as luck",
-      "category" : "",
-      "tags"     : "Travel and Rest",
-      "url"      : "/2018/11/05/in-my-experience-there-is-no-such-thing-as-luck/",
-      "date"     : "Nov 5, 2018"
-    } ,
-  
-    {
-      "title"    : "There&#39;s no mystical energy field that controls my destiny",
-      "category" : "",
-      "tags"     : "Work and Travel",
-      "url"      : "/2018/10/31/there's-no-mystical-energy-field-that-controls-my-destiny/",
-      "date"     : "Oct 31, 2018"
-    } ,
-  
-    {
-      "title"    : "The plans you refer to will soon be back in our hands",
-      "category" : "",
-      "tags"     : "Work and Travel",
-      "url"      : "/2018/05/30/the-plans-you-refer-to-will-soon-be-back-in-our-hands/",
-      "date"     : "May 30, 2018"
     } 
   
 ]

@@ -36,3 +36,9 @@ fixed tag links a urls:
 	4-layouts/_tags-page.scss .archive-title {
   text-transform: capitalize; /* Added so capitalize titles, because we need urls and tags to be lower case for the urls to work
   since the url picks up the tags and uses the way they're spelled to create the urls*/
+
+when clicking on a tag and takes you too to the page where all the same tag articles are, the page format is handled by:
+  	article-content.html
+
+ when adding a page to _posts, 3 things must be in order:
+ 	
